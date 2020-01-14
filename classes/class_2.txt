@@ -1,0 +1,15 @@
+Class: Grill
+
+Attributes:
+
+current_food (array)
+is_on (boolean true/false)
+number_of_cooks (integer)
+temperature (float)
+
+Methods:
+
+add_food() (adds specified food to current_food attribute)
+ignition (changes is_on to true)
+add_cook() (adds specified amount to number_of_cooks attribute)
+increase_heat() (increases temperature attribute by specified amount)

@@ -1,0 +1,15 @@
+Object name: Gas Grill
+
+Attributes:
+
+current_food = ["steak", "shrimp"]
+is_on = false
+number_of_cooks = 1
+temperature = 220.7
+
+Methods:
+
+add_food(chicken) => current_food ["steak", "shrimp", "chicken"]
+ignition => is_on = true
+add_cook(1) => number_of_cooks = 2
+increase_heat(10.1) => temperature = 230.8
