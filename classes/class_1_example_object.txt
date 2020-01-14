@@ -1,0 +1,15 @@
+Object name: 4-top
+
+Attributes
+
+table_capacity = 4
+is_occupied = false
+is_clean = false
+color = "red"
+
+Methods
+
+add_chair(2) => table_capacity = 6
+seat_customer => is_occupied = true
+clean => is_clean = true
+paint_surface(blue) => color = "blue"

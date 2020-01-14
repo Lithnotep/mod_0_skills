@@ -9,7 +9,7 @@ color (string)
 
 Method:
 
-add_chair (modifies table_capacity)
+add_chair() (modifies table_capacity by specified amount)
 seat_customer (modifies is_occupied attribute to true)
 clean (sets is_clean attribute to true)
-paint_surface (modifies color attribute)
+paint_surface() (modifies color attribute to specified color)
