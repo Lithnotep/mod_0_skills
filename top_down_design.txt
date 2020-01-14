@@ -1,0 +1,24 @@
+How to Become a Turing Student
+
+1. Research Turing
+  1.1 Google Turing
+    1.1.1 Visit Turing Website
+      1.1.1.1 View Backend Program
+      1.1.1.2 View Frontend Program
+  1.2 Google popular Programming languages
+    1.2.1 Consider if Turing will help you with the language you want to learn
+  1.3 Find start date of next Cohort
+    1.3.1 consider when you will be able to start
+2. Contact Turing
+  2.1 Go to Turing.io
+    2.1.1 Apply for Try Coding Weekend
+      2.1.1 Gather resources provided during Try Coding Weekend
+      2.1.2 See if you enjoy the contact
+3. Apply to Turing
+  3.1 Go to Turing.io
+    3.1.1 Apply for desired program
+4. Secure Tuition
+  4.1 Decided on your financial options
+    4.1.1 Pay with single payment
+    4.1.2 Acquire a loan
+  4.2 Make payment one month before your cohort would begin
