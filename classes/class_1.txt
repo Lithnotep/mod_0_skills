@@ -1,0 +1,15 @@
+Class: Table
+
+Attributes:
+
+table_capacity (integer)
+is_occupied (boolean true/false)
+is_clean (boolean true/false)
+color (string)
+
+Method:
+
+add_chair (modifies table_capacity)
+seat_customer (modifies is_occupied attribute to true)
+clean (sets is_clean attribute to true)
+paint_surface (modifies color attribute)
